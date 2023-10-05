@@ -32,10 +32,10 @@ const [listacripto, guardarCriptomonedas] = useState([]);
 const [error, guardarError] = useState(false);
 
   const MONEDAS = [
-    { codigo: 'USD', nombre: 'Dolar de Estados Unidos'},
-    { codigo: 'MXN', nombre: 'Peso Mexicano'},
+    { codigo: 'USD', nombre: 'American Dollar' },
+    { codigo: 'MXN', nombre: 'Mexican Peso'},
     { codigo: 'EUR', nombre: 'Euro'},
-    { codigo: 'BOL', nombre: 'Peso Boliviano'},
+    { codigo: 'GBP', nombre: 'Sterling'},
 
   ]
 

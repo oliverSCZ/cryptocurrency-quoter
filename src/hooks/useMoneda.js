@@ -32,7 +32,7 @@ const [state, actualizarState] = useState(stateInicial);
         onChange={e => actualizarState(e.target.value)}
         value={state}
       >
-        <option value="">--Seleccione --</option>
+        <option value="">-- Select --</option>
         {opciones.map(opcion => (
             <option key={opcion.codigo} value={opcion.codigo}>{opcion.nombre}</option>
         ))}

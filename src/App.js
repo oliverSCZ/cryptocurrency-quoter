@@ -87,7 +87,7 @@ function App() {
         />
       </div>
       <div>
-        <Heading>Cotiza monedas al instante</Heading>
+        <Heading>Quote your currency</Heading>
         <Formulario
           guardarMoneda={guardarMoneda}
           guardarCriptomoneda={guardarCriptomoneda}
