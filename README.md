@@ -1,4 +1,4 @@
-# Cryto Currency
+# Crypto Currency
 
 > This is an app made with React.js that queries the current status of the value of a coin to a cryptocurrency through an API and custom hooks..
 
